@@ -1,17 +1,16 @@
 ---
-title: "Writing a Research Proprosal: Guideline for prospective students at University of New England, Australia"
+title: "Writing a Research Proposal: Guideline for prospective students at University of New England, Australia"
 author: "Mick Morrison"
 date: "23 October 2025"
 format:
   html:
-    embed-resources: true
     theme: journal
     self-contained: true
-toc: true
-toc-depth: 3
-toc-title: "Contents"
-theme: "flatly"
+    toc: true
+    toc-depth: 3
+    toc-title: "Contents"
 bibliography: references.bib
+csl: csl/apa.csl
 ---
 
 ## Introduction
