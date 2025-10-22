@@ -1,0 +1,3 @@
+This is a guide for students in the Humanities on how to write a research proposal. The guide is skewed towards history and archaeology students at University of New England, Australia, where I teach. However, I have shared it openly here as it is of wider relevance beyond those disciplines and including to Humanities students at other universities generally, or to those writing proposals for othe reasons. 
+
+This page is the source code. The formatted website is available at [https://mickmorrison.github.io/ResearchProposalGuide/Guidelines.html](https://mickmorrison.github.io/ResearchProposalGuide/Guidelines.html)
